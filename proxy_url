@@ -1,0 +1,2 @@
+http://127.0.0.1:44131/api/v1/namespaces/kubernetes-dashboard/services/http:kubernetes-dashboard:/proxy/#/overview?namespace=default
+http://127.0.0.1:44131/api/v1/namespaces/default/services/http:hello-world:/proxy
